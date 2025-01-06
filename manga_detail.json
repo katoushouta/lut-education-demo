@@ -1,0 +1,72 @@
+{
+    "info": {
+        "name": "Licensed Wooden Pizza",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "thumbnail_url": "https://picsum.photos/id/12/1280/960",
+        "author_name": "Renee.Gutmann13",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/924.jpg",
+        "id": "12"
+    },
+    "chapter_list": [
+        {
+            "name": "Two Hearts",
+            "sub_name": "chapter_1",
+            "id": "1",
+            "thumbnail_url": "https://picsum.photos/id/121/640/480"
+          },
+          {
+            "name": "Won't Get Fooled Again",
+            "sub_name": "chapter_2",
+            "id": "2",
+            "thumbnail_url": "https://picsum.photos/id/122/640/480"
+          },
+          {
+            "name": "Body & Soul",
+            "sub_name": "chapter_3",
+            "id": "3",
+            "thumbnail_url": "https://picsum.photos/id/123/640/480"
+          },
+          {
+            "name": "Can You Feel the Love Tonight",
+            "sub_name": "chapter_4",
+            "id": "4",
+            "thumbnail_url": "https://picsum.photos/id/124/640/480"
+          },
+          {
+            "name": "Makin' Whoopee",
+            "sub_name": "chapter_5",
+            "id": "5",
+            "thumbnail_url": "https://picsum.photos/id/125/640/480"
+          },
+          {
+            "name": "Seasons in the Sun",
+            "sub_name": "chapter_6",
+            "id": "6",
+            "thumbnail_url": "https://picsum.photos/id/126/640/480"
+          },
+          {
+            "name": "Over There",
+            "sub_name": "chapter_7",
+            "id": "7",
+            "thumbnail_url": "https://picsum.photos/id/127/640/480"
+          },
+          {
+            "name": "Call Me Maybe",
+            "sub_name": "chapter_8",
+            "id": "8",
+            "thumbnail_url": "https://picsum.photos/id/128/640/480"
+          },
+          {
+            "name": "In the End",
+            "sub_name": "chapter_9",
+            "id": "9",
+            "thumbnail_url": "https://picsum.photos/id/129/640/480"
+          },
+          {
+            "name": "Whole Lotta Shakin' Goin' On",
+            "sub_name": "chapter_10",
+            "id": "10",
+            "thumbnail_url": "https://picsum.photos/id/130/640/480"
+          }
+    ]
+}
