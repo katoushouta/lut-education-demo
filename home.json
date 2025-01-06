@@ -1,0 +1,114 @@
+{
+    "banners": [
+        {
+            "imageUrl": "https://loremflickr.com/640/480",
+            "url": "https://www.link-u.co.jp/"
+        },
+        {
+            "imageUrl": "https://loremflickr.com/640/480",
+            "mangaId": "1"
+        },
+        {
+            "imageUrl": "https://loremflickr.com/640/480",
+            "url": "https://www.google.com/"
+        }
+    ],
+    "updateMangas": [
+        {
+        "name": "Rustic Metal Fish",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Marcelino.Lockman72",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/204.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Practical Metal Bacon",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Uriah24",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1172.jpg",
+        "id": "2"
+      },
+      {
+        "name": "Handcrafted Soft Shoes",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "London34",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/411.jpg",
+        "id": "3"
+      },
+      {
+        "name": "Fantastic Steel Fish",
+        "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Elwin.Dare77",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/368.jpg",
+        "id": "4"
+      },
+      {
+        "name": "Refined Bronze Soap",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Annamae_Quitzon15",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/532.jpg",
+        "id": "5"
+      },
+      {
+        "name": "Modern Metal Pants",
+        "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Simone_Hilll",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/722.jpg",
+        "id": "6"
+      },
+      {
+        "name": "Rustic Wooden Chips",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Lorenza_Kuphal92",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/546.jpg",
+        "id": "7"
+      },
+      {
+        "name": "Generic Cotton Hat",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Bernhard_Zemlak63",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
+        "id": "8"
+      },
+      {
+        "name": "Elegant Wooden Chair",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Reyna_Renner",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/739.jpg",
+        "id": "9"
+      },
+      {
+        "name": "Fantastic Rubber Bacon",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Dorian5",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/701.jpg",
+        "id": "10"
+      },
+      {
+        "name": "Oriental Frozen Shirt",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Arnoldo_Paucek9",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/11.jpg",
+        "id": "11"
+      },
+      {
+        "name": "Small Steel Bike",
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "thumbnail_url": "https://loremflickr.com/640/480",
+        "author_name": "Maude_Fritsch",
+        "author_icon_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1040.jpg",
+        "id": "12"
+      }
+    ]
+}
